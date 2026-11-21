@@ -1,8 +1,8 @@
-﻿# Phiếu QC 1 — Road v1.0
+# Phiếu QC 1 — Road v1.0
 
-Lô được kiểm (học viên): [Tên bạn được kiểm]        Người kiểm (học viên): Hoàng Bá Đạt  
+Lô được kiểm (học viên): Đào Duy Hiếu             Người kiểm (học viên): Hoàng Bá Đạt  
 Ngày: 2026-11-21                                  Phiên bản guideline: Road v1.0  
-File được kiểm (tên + evision trong manifest): [Tên bạn]-front.zip, [Tên bạn]-fisheye.zip (revision 1)  
+File được kiểm (tên + `revision` trong manifest): daoduyhieu-front.zip, daoduyhieu-fisheye.zip (revision 1)  
 Số ảnh kiểm: 6 (+ 0 ảnh thêm, ghi riêng)          Số nhãn đã kiểm (shape + tag): 65  
 
 ## Tổng hợp theo mã
@@ -23,7 +23,7 @@ Số ảnh kiểm: 6 (+ 0 ảnh thêm, ghi riêng)          Số nhãn đã ki�
 
 ## Danh sách lỗi (mỗi lỗi một dòng)
 | # | Mã | Ảnh | Nhãn (label, id) | Mức | Mô tả ngắn |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | QC1-04 | A02 | lane | chính | Vạch đứt hơi dừng sớm khoảng 10px ở phía xa |
 
 ## Ca mơ hồ
